@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<findItemsAdvancedRequest xmlns="http://www.ebay.com/marketplace/search/v1/services">
+  <descriptionSearch>true</descriptionSearch>
+  <paginationInput><entriesPerPage>4</entriesPerPage> </paginationInput>
+  <keywords>harry porter</keywords>
+  <categoryId>92074</categoryId> 
+
+</findItemsAdvancedRequest>
